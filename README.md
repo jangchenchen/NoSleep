@@ -42,9 +42,8 @@ GRADLE_USER_HOME="$PWD/.gradle-home" \
 ```text
 app/build/outputs/apk/debug/app-debug.apk
 ```
-
 ## 注意事项
-
 - 长时间常亮会增加耗电和发热，请按实际需要选择常亮时长。
 - 使用者应确认自己有权访问输入的 URL，并自行承担访问内容相关责任。
 - Android 厂商系统可能会对后台、WebView 或电源策略有差异，建议以真机测试结果为准。
+- 本项目已基于 AICoding 完成开发，现已停止维护。

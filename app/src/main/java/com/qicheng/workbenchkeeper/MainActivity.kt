@@ -329,7 +329,7 @@ private fun UsageNoticeCard(
         ListItem(
             headlineContent = { Text("使用确认") },
             supportingContent = {
-                Text("我确认自己有权访问输入的URL，并自行承担因输入URL和访问内容产生的责任。")
+                Text("请确认你对输入的网页地址及相关内容拥有合法访问权限，并遵守适用法律法规及平台规则。本应用仅提供本机网页打开与屏幕常亮辅助功能，不参与网页内容提供、账号授权或权限控制。")
             },
             trailingContent = {
                 Checkbox(
